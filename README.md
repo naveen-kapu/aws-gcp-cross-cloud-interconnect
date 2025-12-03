@@ -74,17 +74,7 @@ terraform apply
 ../scripts/validate-connectivity.sh
 \`\`\`
 
-**Congratulations!** Your multicloud interconnect is now active. See [Architecture Overview](docs/01-architecture-overview.md) for next steps.
-
-### 📚 Documentation
-
-1. **[Architecture Overview](docs/01-architecture-overview.md)** - Understanding the design
-2. **[Security Hardening](docs/02-security-hardening.md)** - Compliance & encryption
-3. **[Terraform Deep Dive](docs/03-terraform-guide.md)** - IaC implementation
-4. **[Troubleshooting Guide](docs/04-troubleshooting.md)** - Common issues & solutions
-5. **[Cost Optimization](docs/05-cost-optimization.md)** - Budgeting & ROI analysis
-
-### 💰 Cost Estimation
+**Congratulations!** Your multicloud interconnect is now active. 
 
 **Monthly (per Interconnect connection):**
 - 1 Gbps: $300-500
@@ -123,13 +113,7 @@ See [Cost Optimization Guide](docs/05-cost-optimization.md) for detailed ROI cal
 
 See [examples/](examples/) for detailed implementation patterns.
 
-### 🛠️ Tools & Scripts
 
-**Included utilities:**
-- `validate-connectivity.sh` - Verify end-to-end connectivity
-- `monitor-bandwidth.sh` - Real-time bandwidth monitoring
-- `failover-test.sh` - Test redundancy & failover
-- `cost-estimate.py` - Monthly cost calculator
 
 ### 🤝 Contributing
 
