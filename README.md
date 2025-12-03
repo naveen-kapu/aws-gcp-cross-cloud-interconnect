@@ -111,8 +111,6 @@ See [Cost Optimization Guide](docs/05-cost-optimization.md) for detailed ROI cal
 4. **Analytics & BI** - Centralized data warehouse access
 5. **AI/ML Training** - Leverage best-of-breed platforms
 
-See [examples/](examples/) for detailed implementation patterns.
-
 
 
 ### 🤝 Contributing
@@ -125,9 +123,8 @@ This project is licensed under the Apache 2.0 License - see [LICENSE](LICENSE) f
 
 ### 👨‍💻 Author
 **Naveen Kumar** - Senior Cloud Solutions Architect
-- Email: naveen@cloudarch.dev
+- Email: navekapu0719@gmail.com
 - LinkedIn: [linkedin.com/in/naveenkapu](https://linkedin.com/in/naveenkapu)
-- Blog: [Medium - Cloud Architecture & Infrastructure](https://medium.com/@naveenkapu)
 
 ### 📢 Related Resources
 
